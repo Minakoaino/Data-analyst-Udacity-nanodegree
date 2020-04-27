@@ -10,8 +10,8 @@ Conclusion
 The final analysis will take the form of a PDF document which contains a plot of the data,and outlines taken:
 An outline of steps taken to prepare the data to be visualized in the chart, such as:
 
-Tools Used
-Python
+Tools Used:
+* Python
 SQL
 Excel
 
